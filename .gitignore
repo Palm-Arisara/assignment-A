@@ -1,0 +1,18 @@
+# R session / history
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Rendered notebook output
+*.nb.html
+*.html
+
+# renv library (the lockfile renv.lock IS tracked)
+renv/library/
+renv/staging/
+
+# OS files
+.DS_Store
+Thumbs.db
